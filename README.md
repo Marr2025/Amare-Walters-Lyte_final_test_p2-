@@ -1,4 +1,4 @@
-# Amare Walters Lyte: here are the instructions for the final test repository.
+# Amare Walters Lyte
 
 Reflection:
 - This repository contains the first working version for the final test.
