@@ -1,4 +1,4 @@
-### Amare Walters Lyte
+# Amare Walters Lyte
 
 Last updated: 2025-12-11
 
