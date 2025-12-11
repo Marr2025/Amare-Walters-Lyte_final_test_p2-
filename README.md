@@ -3,7 +3,7 @@
 Reflection:
 - This repository contains the first working version for the final test.
 - Author: Amare Walters Lyte
-- Created by: Marr2025 (GitHub)
+- Created by: Marr2025 
 
 Purpose:
 This repository holds a small demo web app stub (app.py) and a basic HTML template (template.html). It is used to demonstrate version control tasks for the final test.
